@@ -7,9 +7,9 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    <img src="<img width="556" height="374" alt="image" src="https://github.com/user-attachments/assets/997480d8-059c-4dbc-803f-587d11bc7e63" />" width="32%">
-    <img src="<img width="555" height="411" alt="image" src="https://github.com/user-attachments/assets/1c7e7564-f726-4752-9fb9-d43ead7547f7" />" width="32%">
-    <img src="<img width="561" height="377" alt="image" src="https://github.com/user-attachments/assets/f9217756-2cc8-4fb8-a2c7-1fb586fc97f7" />" width="32%">
+    <img src="https://github.com/user-attachments/assets/997480d8-059c-4dbc-803f-587d11bc7e63" width="32%">
+    <img src="https://github.com/user-attachments/assets/1c7e7564-f726-4752-9fb9-d43ead7547f7" width="32%">
+    <img src="https://github.com/user-attachments/assets/f9217756-2cc8-4fb8-a2c7-1fb586fc97f7" width="32%">
 
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**

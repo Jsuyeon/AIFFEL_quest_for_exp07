@@ -28,7 +28,10 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 
         - 이번에 가장 중요했던 점은 hourglass 모델을 이해하고 실험을 수행하는 것이라고 생각하여 hourglass 구조 만드는 코드를 선택하게 되었습니다
+        - 더불어 비교모델인 simplebaseline 모델을 구축하는 것도 중요하다고 생각해 두가지를 캡쳐해서 가져왔습니다
         - <img width="605" height="499" alt="image" src="https://github.com/user-attachments/assets/f9f2c83b-593f-49a1-955d-927f2af68938" />
+        - <img width="609" height="420" alt="image" src="https://github.com/user-attachments/assets/471eb60d-fc50-4e81-b8a6-dd770bb3fef0" />
+
 
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -40,6 +43,8 @@
         - 
         - 팀원들과 추가적으로 backbone 수정, 비디오 결과로 판단하기 등등 다양하게 수행한 것을 확인 할 수 있었습니다
         - <img width="616" height="437" alt="image" src="https://github.com/user-attachments/assets/6855a853-6a1f-4ab6-ae2d-36ca0850eb80" />
+        - <img width="635" height="489" alt="image" src="https://github.com/user-attachments/assets/9093b900-9535-463e-9f20-616ee9212dfa" />
+
 
         
 - [x]  **4. 회고를 잘 작성했나요?**
